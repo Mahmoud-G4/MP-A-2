@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946908728895",
+    "project_id": "mpassignment2-1ab80",
+    "storage_bucket": "mpassignment2-1ab80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946908728895:android:c089805d746b269859728a",
+        "android_client_info": {
+          "package_name": "com.example.mpassignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegTNTp6QNKrh_2AybVgONgiU8RfekGhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
